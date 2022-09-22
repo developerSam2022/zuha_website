@@ -1,0 +1,17 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBTimelineClasses( {"block_id":"e26672ae-c547-4f38-a0ec-8c4ed85e8981","timelinAlignment":"center","timelinAlignmentTablet":"left","timelinAlignmentMobile":"left"}, '.uagb-block-e26672ae-c547-4f38-a0ec-8c4ed85e8981' );
+});
+window.addEventListener("resize", function(){
+	UAGBTimelineClasses( {"block_id":"e26672ae-c547-4f38-a0ec-8c4ed85e8981","timelinAlignment":"center","timelinAlignmentTablet":"left","timelinAlignmentMobile":"left"}, '.uagb-block-e26672ae-c547-4f38-a0ec-8c4ed85e8981' );
+});
+window.addEventListener( 'load', function() {
+	UAGBTabs.init( '.uagb-block-2fc8726d' );
+	UAGBTabs.anchorTabId( '.uagb-block-2fc8726d' );
+});
+window.addEventListener( 'hashchange', function() {
+	UAGBTabs.anchorTabId( '.uagb-block-2fc8726d' );
+}, false );
+window.addEventListener( 'DOMContentLoaded', function() {
+	UAGBLottie._run( {"block_id":"7daeab0f","jsonLottie":{"uploading":false,"date":1661880600000,"filename":"6146799_3072524-1-1-scaled.jpg","menuOrder":0,"uploadedTo":576,"type":"image","subtype":"jpeg","id":582,"title":"6146799_3072524 (1) (1)","url":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1-scaled.jpg","link":"http:\/\/localhost\/zuha\/services\/test-service\/6146799_3072524-1-1\/","alt":"","author":"1","description":"","caption":"","name":"6146799_3072524-1-1","status":"inherit","modified":1661880600000,"mime":"image\/jpeg","icon":"http:\/\/localhost\/zuha\/wp-includes\/images\/media\/default.png","dateFormatted":"August 30, 2022","nonces":{"update":"b02eaeed29","delete":"23d32b3878","edit":"c9d6d78507"},"editLink":"http:\/\/localhost\/zuha\/wp-admin\/post.php?post=582&action=edit&classic-editor","meta":false,"authorName":"zuha","authorLink":"http:\/\/localhost\/zuha\/wp-admin\/profile.php","uploadedToTitle":"test service","uploadedToLink":"http:\/\/localhost\/zuha\/wp-admin\/post.php?post=576&action=edit&classic-editor","filesizeInBytes":349016,"filesizeHumanReadable":"341 KB","context":"","originalImageURL":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1.jpg","originalImageName":"6146799_3072524-1-1.jpg","height":1709,"width":2560,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1-150x150.jpg","orientation":"landscape"},"medium":{"height":200,"width":300,"url":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1-300x200.jpg","orientation":"landscape"},"large":{"height":683,"width":1024,"url":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1-1024x683.jpg","orientation":"landscape"},"full":{"url":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1-scaled.jpg","height":1709,"width":2560,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"lottieURl":"http:\/\/localhost\/zuha\/wp-content\/uploads\/2022\/08\/6146799_3072524-1-1-scaled.jpg","lottieSource":"","height":"","heightTablet":"","heightMob":"","width":"","widthTablet":"","widthMob":"","backgroundColor":"","backgroundHColor":"","loop":true,"speed":1,"reverse":false,"playOn":"none"}, 'uagb-block-7daeab0f' );
+});
+ })
